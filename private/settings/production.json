@@ -1,0 +1,14 @@
+{
+  "private": {
+    "GOOGLE": {
+      "CLIENT_ID": "462371938949-que9b49bn4ks2kd4vbjgjhc2eaged62t.apps.googleusercontent.com",
+      "CLIENT_SECRET": "9FI8bAXkYkgvWgKhdvhMrOLC"
+    },
+    "DROPBOX": {
+      "key": "yrkrpc6rcpjni1a",
+      "secret": "7gvti8e1f1tsj7g",
+      "token": "Fysz3WbeZfAAAAAAAAAABYPI73wiqU0QnQ8G7e6SwjT1rEnC3jxnobNJmvD1p6t9"
+    },
+    "MAIL_URL": "smtp://o33ik:aphache21@smtp.sendgrid.net:587"
+  }
+}
